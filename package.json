@@ -1,5 +1,5 @@
 {
-    "name": "gmp",
+    "name": "gmpjs",
     "version": "6.1.1",
     "description": "Javascript port of GMP",
     "main": "gmp.js",
