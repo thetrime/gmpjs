@@ -1,0 +1,23 @@
+{
+    "name": "gmp",
+    "version": "6.1.1",
+    "description": "Javascript port of GMP",
+    "main": "gmp.js",
+    "dependencies": {
+    },
+    "devDependencies": {
+    },
+    "scripts": {
+        "install": "sh ./build.sh"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/thetrime/gmpjs.git"
+    },
+    "author": "",
+    "license": "GPL-3.0",
+    "bugs": {
+        "url": "https://github.com/thetrime/gmpjs/issues"
+    },
+    "homepage": "https://github.com/thetrime/gmpjs#readme"
+}
